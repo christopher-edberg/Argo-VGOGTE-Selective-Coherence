@@ -21,7 +21,7 @@ TPCC                  - New Order trans. from TPCC
 
 ## Software Requirements
 
-**ARGO** - Assumes you have already installed [argodsm](https://github.com/etascale/argodsm).
+**Modified version of ARGO** - Assumes you have already installed the ArgoDSM version in this repository.
 
 ## Building
 
