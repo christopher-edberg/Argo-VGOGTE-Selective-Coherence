@@ -36,7 +36,9 @@ Run each benchmark:
 $ (mpirun $OMPIFLAGS) ./binary_name
 ```
 
-Each benchmark can also be configured with the number of threads (`NUM_THREADS`), number of operations per thread (`NUM_OPS`), etc.. The benchmarks also have specific parameters, such as number of sub operations per operation, number of sub elements per datum, etc.
+Each benchmark can also be configured with the number of threads (`NUM_THREADS`), number of operations per thread (`NUM_OPS`), enabling the selective coherence mechanisms (`SELECTIVE_ACQREL`) etc.. The benchmarks also have specific parameters, such as number of sub operations per operation, number of sub elements per datum, etc.
+
+Some benchmarks also allow for the bulk allocation of lock flags through the parameter (`MOD_ARGO`).
 
 ## References
 
