@@ -4,8 +4,6 @@ There is no official repository available.
 
 ## Implementations
 
-**PTHREADS** - This directory contains the parallel Pthread version of the benchmarks.
-
 **ARGO** - This directory contains the parallel ArgoDSM/Pthread version of the benchmarks.
 
 ## Benchmarks
