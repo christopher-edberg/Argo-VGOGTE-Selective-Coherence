@@ -21,6 +21,8 @@ TPCC                  - New Order trans. from TPCC
 
 **Modified version of ARGO** - Assumes you have already installed the ArgoDSM version in this repository.
 
+Main [argodsm](https://github.com/etascale/argodsm) repository.
+
 ## Building
 
 Enter the directory from the version desired and execute:
