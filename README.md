@@ -12,7 +12,7 @@ There is no official repository available.
 Concurrent queue (CQ) - Insert/Delete nodes in a queue
 Array Swap (SPS)      - Random swap of array elements
 Persistent Cache (PC) - Update entries in persistent hash table
-RB-tree               - Insert/Delete nodes in RB-Tree
+RB-tree               - Insert/Delete nodes in RB-Tree (Note: Not fully implemented or tested!)
 TATP                  - Update location trans. from TATP
 TPCC                  - New Order trans. from TPCC
 ```
