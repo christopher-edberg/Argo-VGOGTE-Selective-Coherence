@@ -4,7 +4,7 @@ There is no official repository available.
 
 ## Implementations
 
-**ARGO** - This directory contains the parallel ArgoDSM/Pthread version of the benchmarks.
+**ARGO** - This directory contains the parallel ArgoDSM version of the benchmarks.
 
 ## Benchmarks
 
@@ -19,9 +19,8 @@ TPCC                  - New Order trans. from TPCC
 
 ## Software Requirements
 
-**Modified version of ARGO** - Assumes you have already installed the ArgoDSM version in this repository.
+**Modified version of ARGO** - Assumes you have already installed the ArgoDSM version in this repository. Main [argodsm](https://github.com/etascale/argodsm) repository.
 
-Main [argodsm](https://github.com/etascale/argodsm) repository.
 
 ## Building
 
